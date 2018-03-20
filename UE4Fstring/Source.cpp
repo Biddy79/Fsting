@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-	Fstring myName = "Adam ";
-	Fstring lastName = "Beardsley";
+	Fstring myName = "Jimbo ";
+	Fstring lastName = "Jones. the man with no bones";
 	
 	Fstring fullName = myName + lastName;
 
